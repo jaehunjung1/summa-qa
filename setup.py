@@ -16,7 +16,7 @@ VERSION = '0.1.0'
 
 REQUIRED = [
     'spacy>=2.2.0', 
-    'en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz',
+    'en_core_web_sm',
     'transformers==2.1.1',
 ]
 
